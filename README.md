@@ -25,7 +25,7 @@ Component list
 |C13|Polyester Capacitor|10nF|
 |C14|Polyester Capacitor|10nF|
 |J1|Switched 5.5mm Barrel Jack||
-|LED1|LED|5MM|
+|LED1|5mm LED||
 |Q1|OC44 hfe 70-80||
 |Q2|2N3904||
 |Q3|OC44 hfe 110-130||
