@@ -7,7 +7,7 @@ Critical to the behaviour of both the Fuzz Face and the Rangemaster is the fact 
 
 
 |Name|Component|Value|
-|:---|:---     |:--- |
+|:---|:---|:---|
 |C1|Radial Electrolytic|47uF|
 |C2|Radial Electrolytic|22uF|
 |C3|Polyester Capacitor|100nF|
