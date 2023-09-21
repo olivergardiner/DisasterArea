@@ -5,7 +5,7 @@ The operation of a PNP fuzz from a +9v rail can be achieved by AC coupling into 
 
 Critical to the behaviour of both the Fuzz Face and the Rangemaster is the fact that the input impedance is low and interacts directly with the pickup coils. For this reason, the input is deliberately not buffered into the effect but the input signal is wired in parallel to a high impedance buffer with a separate output. The reason for this is to provide a clean signal to drive the detector of a noise gate (e.g. the ISP Decimator).
 
-I have listed the Germanium transistors as OC44 but there are many Germanium types that would fit the bill. It's handy to have a transistor tester (I use the Peak Atlas DCA55) to measure the hfe and it's also a good idea to check the bias points (Germanium transistors can be quite leaky) - [Electrosmash|https://www.electrosmash.com/fuzz-face] is a good resource for getting the setup perfect.
+I have listed the Germanium transistors as OC44 but there are many Germanium types that would fit the bill. It's handy to have a transistor tester (I use the Peak Atlas DCA55) to measure the hfe and it's also a good idea to check the bias points (Germanium transistors can be quite leaky) - [Electrosmash](https://www.electrosmash.com/fuzz-face) is a good resource for getting the setup perfect.
 
 Component list
 --------------
