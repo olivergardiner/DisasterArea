@@ -5,7 +5,8 @@ The operation of a PNP fuzz from a +9v rail can be achieved by AC coupling into 
 
 Critical to the behaviour of both the Fuzz Face and the Rangemaster is the fact that the input impedance is low and interacts directly with the pickup coils. For this reason, the input is deliberately not buffered into the effect but the input signal is wired in parallel to a high impedance buffer with a separate output. The reason for this is to provide a clean signal to drive the detector of a noise gate (e.g. the ISP Decimator).
 
-#Component list
+Component list
+--------------
 
 |Name|Component|Value|
 |:---|:---|:---|
