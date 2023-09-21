@@ -10,6 +10,19 @@ Component list
 
 |Name|Component|Value|
 |:---|:---|:---|
+|R1|Resistor|47K|
+|R2|Resistor|470K|
+|R3|Resistor|1M|
+|R4|Resistor|22K|
+|R5|Resistor|100K|
+|R6|Resistor|100R|
+|R7|Resistor|33K|
+|R8|Resistor|4K7|
+|R9|Resistor|33K|
+|R10|Resistor|3K9|
+|R11|Resistor|22K|
+|R12|Resistor|22K|
+|R13|Resistor|100R|
 |C1|Radial Electrolytic|47uF|
 |C2|Radial Electrolytic|22uF|
 |C3|Polyester Capacitor|100nF|
@@ -30,19 +43,6 @@ Component list
 |Q2|2N3904||
 |Q3|OC44 hfe 110-130||
 |Q4|2N3904||
-|R1|Resistor|47K|
-|R2|Resistor|470K|
-|R3|Resistor|1M|
-|R4|Resistor|22K|
-|R5|Resistor|100K|
-|R6|Resistor|100R|
-|R7|Resistor|33K|
-|R8|Resistor|4K7|
-|R9|Resistor|33K|
-|R10|Resistor|3K9|
-|R11|Resistor|22K|
-|R12|Resistor|22K|
-|R13|Resistor|100R|
 |U1|ICL7660S||
 |U2|ICL7660S||
 |U3|7909 TO220||
