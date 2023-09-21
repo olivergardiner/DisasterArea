@@ -5,6 +5,7 @@ The operation of a PNP fuzz from a +9v rail can be achieved by AC coupling into 
 
 Critical to the behaviour of both the Fuzz Face and the Rangemaster is the fact that the input impedance is low and interacts directly with the pickup coils. For this reason, the input is deliberately not buffered into the effect but the input signal is wired in parallel to a high impedance buffer with a separate output. The reason for this is to provide a clean signal to drive the detector of a noise gate (e.g. the ISP Decimator).
 
+#Component list
 
 |Name|Component|Value|
 |:---|:---|:---|
@@ -23,14 +24,10 @@ Critical to the behaviour of both the Fuzz Face and the Rangemaster is the fact 
 |C13|Polyester Capacitor|10nF|
 |C14|Polyester Capacitor|10nF|
 |J1|Switched 5.5mm Barrel Jack||
-|J2|Screw Conn 2 Pole||
-|J3|Screw Conn 2 Pole||
-|J4|Screw Conn 2 Pole||
-|J5|Screw Conn 2 Pole||
-|LED1|LED|LED 5MM RED|
-|Q1|Ge PNP RD5||
+|LED1|LED|5MM|
+|Q1|OC44 hfe 70-80||
 |Q2|2N3904||
-|Q3|Ge PNP RD5||
+|Q3|OC44 hfe 110-130||
 |Q4|2N3904||
 |R1|Resistor|47K|
 |R2|Resistor|470K|
@@ -47,8 +44,8 @@ Critical to the behaviour of both the Fuzz Face and the Rangemaster is the fact 
 |R13|Resistor|100R|
 |U1|ICL7660S||
 |U2|ICL7660S||
-|U3|79xx||
-|U4|Dual Op Amp||
-|VR1|Potentiometer|B5K|
-|VR2|Potentiometer|A100K|
-|VR3|Potentiometer|A100K|
+|U3|7909 TO220||
+|U4|RC4558||
+|VR1|RD901F Potentiometer|B5K|
+|VR2|RD901F Potentiometer|A100K|
+|VR3|RD901F Potentiometer|A100K|
