@@ -10,12 +10,12 @@ desktop.ini
 *.mop
 *.txt
 *.csv
-*.md
 *.htm
 
 # Exported images and docs
 *.bmp
 *.png
+*.jpg
 *.pdf
 
 # Production files
