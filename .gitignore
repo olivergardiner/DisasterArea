@@ -17,6 +17,8 @@ desktop.ini
 *.png
 *.jpg
 *.pdf
+*.emf
+*.svg
 
 # Production files
 *.gmo
